@@ -1,4 +1,4 @@
 longtou1100/qinglong:2.17.9
 longtou1100/wxedge:2.4.3
-vergoh/vnstat:latest
-haroldli/xiaoya-tvbox:native-host
+vergoh/vnstat:2.12
+linkease/ddnsto:3.0.0
